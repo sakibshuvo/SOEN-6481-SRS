@@ -1,6 +1,14 @@
 # SOEN-6481-SRS-Project: SmartHome+
 Type: Group Assignment
 
+# DELIVERY#2
+- Draft report (Google doc link): https://docs.google.com/document/d/1G8VWDxqtq3j4BFMEu1XXoHW_oYdRIbL9/edit#
+
+
+
+
+# DELIVERY#1
+
 ## Description
 - You are developers at a software development company. You have been contacted by Smart Solutions inc., they have a project called SmartHome, they describe their project below:
 
