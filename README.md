@@ -1,10 +1,12 @@
 # SOEN-6481-SRS-Project: SmartHome+
 Type: Group Assignment
 
+# DELIVERY#3
+- We directly work on GitHub for delivery-3
+
+
 # DELIVERY#2
 - Draft report (Google doc link): https://docs.google.com/document/d/1G8VWDxqtq3j4BFMEu1XXoHW_oYdRIbL9/edit#
-
-
 
 
 # DELIVERY#1
