@@ -1,0 +1,25 @@
+Apoorv
+Security Measures - 1 use case model around this
+Emergency Detection and Priorities for Emergency - 1 use case model around this
+=====================
+Divya
+Energy Management - 1 use cases around this RainWater, Solar Energy
+Usage Analytics - Self Evolving Mode - 1 use cases around this
+=====================
+Sakib
+Household Automation - 1 use cases around this
+a. Lightning, Cooking, Laundry, Irrigation, Swiming Pool, Routine Activities
+=====================
+Manik
+Notifications - 1 use cases around this
+Expandable Controller - 1 use case model around this
+=====================
+Nikhil
+Authorization and User Operation Modes - 1 use case model around this
+=====================
+
+Supplementary
+------------
+Storage
+Connectivity
+User interface features
